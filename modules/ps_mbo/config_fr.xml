@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_mbo</name>
+    <displayName><![CDATA[La place de march&eacute; PrestaShop dans votre back-office]]></displayName>
+    <version><![CDATA[4.4.0]]></version>
+    <description><![CDATA[Consultez la place de march&eacute; PrestaShop directement depuis votre back-office pour mieux r&eacute;pondre &agrave; vos besoins.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+</module>
